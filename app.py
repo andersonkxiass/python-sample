@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, world! HOT RELOAD'
+    return 'Hello, world! HOT RELOAD Change 2'
